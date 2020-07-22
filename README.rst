@@ -1,5 +1,5 @@
 ================
-PyEmir tutorials
+Numina tutorials
 ================
 
 Working on it
